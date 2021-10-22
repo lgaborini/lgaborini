@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**lgaborini/lgaborini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal repository!
 
-Here are some ideas to get you started:
+Here I share the projects I'm the most confident about, that can be publicly shared.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+📚 Education:
+
+- BSc/MSc: Mathematical Engineering (Politecnico di Milano, Italy)
+- PhD candidate: Forensic Science (Université de Lausanne, Switzerland)
+
+🏢 Work:
+
+- International Testing Agency: Intelligence Officer
+
+❔ Coding and interests:
+
+- data scientist-like: part-time IT, part-time stats, part-time engineering
+- avid R user
+  + big {tidyverse} fan
+  + big {Shiny} fan
+    - using Shiny in production 💥
+  + big {rmarkdown} fan
+    - PhD thesis, and more...
+- Python
+  + used in the past!
+- runner 🏃‍♂️
