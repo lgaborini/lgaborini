@@ -4,18 +4,41 @@ Welcome to my personal repository!
 
 Here I share the projects I'm the most confident about, that can be publicly shared.
 
+### Projects
+
+PhD thesis:
+
+- https://github.com/lgaborini/bayessource
+- https://github.com/lgaborini/rstanBF
+- https://github.com/lgaborini/rdirdirgamma
+- https://github.com/lgaborini/rsamplestudy
+- https://github.com/lgaborini/memoire-UNIL-ESC-PhD
+- https://github.com/lgaborini/thesisdownUNIL
+
+R packages and projects:
+
+- https://github.com/lgaborini/pdfcolorsplit
+- https://github.com/lgaborini/ggplot2-introduction
+- https://github.com/lgaborini/R-snippets
+- https://github.com/lgaborini/R-package-makefile
+
+RStudio addins:
+
+- https://github.com/lgaborini/rstudio-myaddins
+- https://github.com/lgaborini/rstudio-pastepath
+
 ### About me
 
-📚 Education:
+📚 Education
 
 - BSc/MSc: Mathematical Engineering (Politecnico di Milano, Italy)
 - PhD candidate: Forensic Science (Université de Lausanne, Switzerland)
 
-🏢 Work:
+🏢 Work
 
 - International Testing Agency: Intelligence Officer
 
-❔ Coding and interests:
+❔ Coding and interests
 
 - data scientist-like: part-time IT, part-time stats, part-time engineering
 - avid R user
