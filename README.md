@@ -31,8 +31,8 @@ RStudio addins:
 
 📚 Education
 
+- PhD: Forensic Science (Université de Lausanne, Switzerland)
 - BSc/MSc: Mathematical Engineering (Politecnico di Milano, Italy)
-- PhD candidate: Forensic Science (Université de Lausanne, Switzerland)
 
 🏢 Work
 
