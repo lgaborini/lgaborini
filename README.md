@@ -36,9 +36,9 @@ RStudio addins:
 
 🏢 Work
 
-- International Testing Agency: Intelligence Officer
+- International Testing Agency: Data Analytics Officer
 
-❔ Coding and interests
+❔ Interests
 
 - data scientist-like: part-time IT, part-time stats, part-time engineering
 - avid R user
@@ -49,4 +49,4 @@ RStudio addins:
     - PhD thesis, and more...
 - Python
   + used in the past!
-- runner 🏃‍♂️
+- runner 🏃‍♂️ and other endurance sports
