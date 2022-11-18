@@ -2,7 +2,11 @@
 
 Welcome to my personal repository!
 
-Here I share the projects I'm the most confident about, that can be publicly shared.
+Here I share the projects I'm the most confident with, that can be publicly shared.  
+
+### Socials
+
+<a rel="me" href="https://fosstodon.org/@lgaborini">Mastodon</a>
 
 ### Projects
 
