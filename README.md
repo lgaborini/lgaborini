@@ -6,7 +6,8 @@ Here I share the projects I'm the most confident with, that can be publicly shar
 
 ### Socials
 
-<a rel="me" href="https://fosstodon.org/@lgaborini">Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@lgaborini">Mastodon</a>    
+<a rel="me" href="https://bsky.app/profile/lgaborini.bsky.social">Bluesky</a>
 
 ### Projects
 
