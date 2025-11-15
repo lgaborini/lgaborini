@@ -41,7 +41,7 @@ RStudio addins:
 
 🏢 Work
 
-- International Testing Agency: Data Analytics Officer
+- International Testing Agency: Senior Data Analytics Officer
 
 ❔ Interests
 
